@@ -1,0 +1,67 @@
+.nav-link{
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 15px;
+}
+.navbar-brand{
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 30px;
+}
+.iam{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+#tag{
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  color: antiquewhite;
+  text-align: center;
+  font-size: 30px
+}
+.bg-black {
+    background-color: #000;
+  }
+  
+  .bg-teal {
+    background-color: teal;
+  }
+  
+  .left-column,
+  .right-column {
+    padding: 20px;
+  }
+  
+  .left-column h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .right-column img {
+    border-radius: 10px;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  @media (max-width: 767.98px) {
+    .bg-black,
+    .bg-teal {
+      width: 100%;
+    }
+  
+    .left-column,
+    .right-column {
+      width: 100%;
+    }
+  
+    .navbar-collapse {
+      background-color: #000;
+    }
+  }
+  

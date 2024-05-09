@@ -1,0 +1,56 @@
+body {
+    background-color: #1f1f1f;
+    color: #fff;
+  }
+  .nav-link{
+    font-family: "Lato", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 15px;
+  }
+  .navbar-brand{
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+  }
+  
+  .section-title {
+    color: teal;
+  }
+  
+  .contact-section {
+    padding-top: 50px;
+  }
+  
+  .container-box {
+    background-color: #1a1a1a;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    margin-bottom: 40px;
+  }
+  
+  .container-box h3 {
+    color: teal;
+  }
+  
+  .container-box ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .container-box ul li {
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  
+  .container-box ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .container-box ul li a:hover {
+    color: teal;
+  }
+  
