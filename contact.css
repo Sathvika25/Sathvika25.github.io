@@ -1,6 +1,6 @@
 body {
     background-color: #1f1f1f;
-    color: #fff;
+    
   }
   .nav-link{
     font-family: "Lato", sans-serif;
@@ -17,7 +17,32 @@ body {
   
   .section-title {
     color: teal;
+    font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    font-size: 55px;
+    text-align:left;
   }
+  .jersey{
+    font-family: "Jersey 25", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 45px;
+  color: teal;
+  }
+  .rubik{
+    font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  }
+  
   
   .contact-section {
     padding-top: 50px;
@@ -38,6 +63,7 @@ body {
   .container-box ul {
     list-style: none;
     padding-left: 0;
+    
   }
   
   .container-box ul li {
